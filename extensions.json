@@ -45,10 +45,10 @@
             "id": "tpos",
             "repo": "https://github.com/cryptoteun/lnc-tpos",
             "name": "TPoS",
-            "version": "0.4.1-lnc",
+            "version": "lnc.23.03",
             "short_description": "Secure, mobile-ready, instant and shareable point of sale",
-            "icon": "https://raw.githubusercontent.com/cryptoteun/lnc-tpos/main/static/image/tpos.png",
-            "archive": "https://github.com/cryptoteun/lnc-tpos/archive/refs/tags/0.4.1-lnc.zip",
+            "icon": "https://raw.githubusercontent.com/cryptoteun/lnc-tpos/lnc/static/image/tpos.png",
+            "archive": "https://github.com/cryptoteun/lnc-tpos/archive/refs/tags/lnc.23.03.zip",
             "hash": "35a393db05b2796b0dd408137af53ead74f9f49296c1cab5b057d18ffd43fcb3"
         },
         {
