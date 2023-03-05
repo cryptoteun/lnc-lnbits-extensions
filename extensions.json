@@ -49,7 +49,7 @@
             "short_description": "Secure, mobile-ready, instant and shareable point of sale",
             "icon": "https://raw.githubusercontent.com/cryptoteun/lnc-tpos/lnc/static/image/tpos.png",
             "archive": "https://github.com/cryptoteun/lnc-tpos/archive/refs/tags/lnc.23.03.zip",
-            "hash": "35a393db05b2796b0dd408137af53ead74f9f49296c1cab5b057d18ffd43fcb3"
+            "hash": "94d8c8c1e9dd69399e99bfd885b1d198b66633eaaa85dcfade67f185f27f9edf"
         },
         {
             "id": "usermanager",
