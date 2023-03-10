@@ -3,17 +3,17 @@
     {
       "id": "tpos-dev",
       "organisation": "cryptoteun",
-      "repository": "lnc-tpos:lnc"
+      "repository": "lnc-tpos"
     },
     {
       "id": "tipjar-dev",
       "organisation": "cryptoteun",
-      "repository": "lnc-tipjar:lnc"
+      "repository": "lnc-tipjar"
     },
     {
       "id": "satspay-dev",
       "organisation": "cryptoteun",
-      "repository": "lnc-satspay:lnc"
+      "repository": "lnc-satspay"
     }
   ]
 }
