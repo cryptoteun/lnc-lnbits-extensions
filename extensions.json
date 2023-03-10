@@ -14,7 +14,12 @@
                 {
             "id": "satspay",
             "repo": "https://github.com/cryptoteun/lnc-satspay",
-            "name": "SatsPay Server"
+            "name": "SatsPay Server",
+            "version": "lnc.23.03.01",
+            "short_description": "Create onchain and LN charges",
+            "icon": "https://raw.githubusercontent.com/cryptoteun/lnc-satspay/raw/lnc/static/image/satspay.png",
+            "archive": "https://github.com/cryptoteun/lnc-satspay/archive/refs/tags/lnc.23.03.01.zip",
+            "hash": "a3545ccbc1481bd15e103dd252908378041a8fd1d85dbbb0d08d049f93cbe2a5"
         },
         {
             "id": "tipjar",
