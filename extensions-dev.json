@@ -1,0 +1,19 @@
+{
+    "extensions": [
+       {
+    "id": "tpos",
+    "organisation": "cryptoteun",
+    "repository": "lnc-tpos:lnc"
+},
+        {
+    "id": "tipjar",
+    "organisation": "cryptoteun",
+    "repository": "lnc-tipjar:lnc"
+},
+        {
+    "id": "satspay",
+    "organisation": "cryptoteun",
+    "repository": "lnc-satspay:lnc"
+}
+    ]
+}
