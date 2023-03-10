@@ -1,19 +1,35 @@
 {
-  "repos": [
-    {
-      "id": "tpos-dev",
-      "organisation": "cryptoteun",
-      "repository": "lnc-tpos"
-    },
-    {
-      "id": "tipjar-dev",
-      "organisation": "cryptoteun",
-      "repository": "lnc-tipjar"
-    },
-    {
-      "id": "satspay-dev",
-      "organisation": "cryptoteun",
-      "repository": "lnc-satspay"
-    }
-  ]
+    "featured": ["tpos","satspay","tipjar"],
+    "extensions": [
+        {
+            "id": "tpos",
+            "repo": "https://github.com/cryptoteun/lnc-tpos",
+            "name": "TPoS",
+            "version": "lnc.23.03",
+            "short_description": "Secure, mobile-ready, instant and shareable point of sale",
+            "icon": "https://raw.githubusercontent.com/cryptoteun/lnc-tpos/lnc/static/image/tpos.png",
+            "archive": "https://github.com/cryptoteun/lnc-tpos/archive/refs/tags/lnc.23.03.zip",
+            "hash": "94d8c8c1e9dd69399e99bfd885b1d198b66633eaaa85dcfade67f185f27f9edf"
+        },
+                {
+            "id": "satspay",
+            "repo": "https://github.com/cryptoteun/lnc-satspay",
+            "name": "SatsPay Server",
+            "version": "lnc.23.03.01",
+            "short_description": "Create onchain and LN charges",
+            "icon": "https://raw.githubusercontent.com/cryptoteun/lnc-satspay/raw/lnc/static/image/satspay.png",
+            "archive": "https://github.com/cryptoteun/lnc-satspay/archive/refs/tags/lnc.23.03.01.zip",
+            "hash": "a3545ccbc1481bd15e103dd252908378041a8fd1d85dbbb0d08d049f93cbe2a5"
+        },
+        {
+            "id": "tipjar",
+            "repo": "https://github.com/cryptoteun/lnc-tipjar",
+            "name": "Tip Jar",
+            "version": "lnc.23.03",
+            "short_description": "Accept Bitcoin donations, with messages attached!",
+            "icon": "https://raw.githubusercontent.com/cryptoteun/lnc-tipjar/raw/lnc/static/image/tipjar.png",
+            "archive": "https://github.com/cryptoteun/lnc-tipjar/archive/refs/tags/lnc.23.03.zip",
+            "hash": "b7ab2ff1cc5bbeacecee10eeb25ab36d415af8c92a5b7393ed09785676def921"
+        }
+    ]
 }
