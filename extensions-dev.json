@@ -19,17 +19,17 @@
             "short_description": "Create onchain and LN charges",
             "icon": "https://github.com/cryptoteun/lnc-lnbits-satspay/blob/0f817ffc5f20fbf6b61cdc2a9916ec0fb94df05d/static/image/satspay.png?raw=true",
             "archive": "https://github.com/cryptoteun/lnc-lnbits-satspay/archive/refs/tags/lnc.23.06.01.zip",
-            "hash": "469f7a740ce0d96c361f06104916c743d0718719fd99c9d1fd53f06179008d35"
+            "hash": "8c3e30f761e9133dea7cbc68d3625ee66e00a172da79234c568aff219ef2083a"
         },
         {
             "id": "tipjar",
             "repo": "https://github.com/cryptoteun/lnc-tipjar",
             "name": "Tip Jar",
-            "version": "lnc.23.03.02",
+            "version": "lnc.23.06.01",
             "short_description": "Accept Bitcoin donations, with messages attached!",
             "icon": "https://github.com/cryptoteun/lnc-tipjar/blob/2d3e544f21e55cf2b6cd55550b89050c3f3c68cc/static/image/tipjar.png?raw=true",
-            "archive": "https://github.com/cryptoteun/lnc-tipjar/archive/refs/tags/lnc.23.03.02.zip",
-            "hash": "c4ef5db658e9bb552b3a7207159da17b8120b15407cfe4eed9b8c01a22fab6fb"
+            "archive": "https://github.com/cryptoteun/lnc-tipjar/archive/refs/tags/lnc.23.06.01.zip",
+            "hash": "454ce44258234a9e29d79f57acac7ce15d64193b83a7542cf89b1a5e31ebe56d"
         }
     ]
 }
