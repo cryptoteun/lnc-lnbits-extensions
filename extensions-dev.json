@@ -25,11 +25,11 @@
             "id": "tipjar",
             "repo": "https://github.com/cryptoteun/lnc-tipjar",
             "name": "Tip Jar",
-            "version": "lnc.23.06.01",
+            "version": "lnc.23.06.02",
             "short_description": "Accept Bitcoin donations, with messages attached!",
             "icon": "https://github.com/cryptoteun/lnc-tipjar/blob/2d3e544f21e55cf2b6cd55550b89050c3f3c68cc/static/image/tipjar.png?raw=true",
-            "archive": "https://github.com/cryptoteun/lnc-tipjar/archive/refs/tags/lnc.23.06.01.zip",
-            "hash": "454ce44258234a9e29d79f57acac7ce15d64193b83a7542cf89b1a5e31ebe56d"
+            "archive": "https://github.com/cryptoteun/lnc-tipjar/archive/refs/tags/lnc.23.06.02.zip",
+            "hash": "10bcb5753082fdeaa70b8f90db5e678647f69115f16b595a1626dfa1c23952bd"
         }
     ]
 }
