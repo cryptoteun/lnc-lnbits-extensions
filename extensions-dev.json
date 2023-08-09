@@ -11,7 +11,7 @@
             "archive": "https://github.com/cryptoteun/lnc-tpos/archive/refs/tags/lnc.23.03.02.zip",
             "hash": "1f6e78f6e461d630d1b060c45b8a332030e1d08fd3c00361c6050a89391d07d1"
         },
-                {
+        {
             "id": "satspay",
             "repo": "https://github.com/cryptoteun/lnc-lnbits-satspay",
             "name": "SatsPay Server",
@@ -30,6 +30,16 @@
             "icon": "https://github.com/cryptoteun/lnc-tipjar/blob/2d3e544f21e55cf2b6cd55550b89050c3f3c68cc/static/image/tipjar.png?raw=true",
             "archive": "https://github.com/cryptoteun/lnc-tipjar/archive/refs/tags/lnc.23.06.02.zip",
             "hash": "10bcb5753082fdeaa70b8f90db5e678647f69115f16b595a1626dfa1c23952bd"
+        },
+        {
+            "id": "bliksembier",
+            "repo": "https://github.com/lightningcheckout/lnb-bliksembier",
+            "name": "BliksemBier",
+            "version": "2023.08.03",
+            "short_description": "Lightning enabled Beertap",
+            "icon": "https://raw.githubusercontent.com/lightningcheckout/lnb-bliksembier/18407bb8fb112c22ada2ee6f8656cfc6810af28a/Assets/kanhetal.png",
+            "archive": "https://github.com/lightningcheckout/lnb-bliksembier/releases/download/lnc.23.08.03/2023.08.03.zip",
+            "hash":"5cbdd3f9ae1852332ca025ccbdb5e0ed064968dc693ee94d39888fbf1797d79a"
         }
     ]
 }
