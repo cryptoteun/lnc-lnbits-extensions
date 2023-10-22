@@ -1,5 +1,5 @@
 {
-    "featured": ["tpos","satspay","tipjar"],
+    "featured": ["tpos","satspay","tipjar", "bliksembier"],
     "extensions": [
         {
             "id": "tpos",
