@@ -19,7 +19,7 @@
             "short_description": "Create onchain and LN charges",
             "icon": "https://github.com/lightningcheckout/lnb-satspay/blob/0f817ffc5f20fbf6b61cdc2a9916ec0fb94df05d/static/image/satspay.png?raw=true",
             "archive": "https://github.com/lightningcheckout/lnb-satspay/archive/refs/tags/lnc.23.10.22.zip",
-            "hash": "f2ab77d4a6ec392eaace7b5c173499880cc75c04de05d08970a36a29ebe258ac"
+            "hash": "6aa171a7ba230c0fd1e7bff3be45388465b8bf2cc9b8f63c0bb7a203f1fcef33"
         },
         {
             "id": "tipjar",
@@ -29,7 +29,7 @@
             "short_description": "Accept Bitcoin donations, with messages attached!",
             "icon": "https://github.com/lightningcheckout/lnb-tipjar/blob/2d3e544f21e55cf2b6cd55550b89050c3f3c68cc/static/image/tipjar.png?raw=true",
             "archive": "https://github.com/lightningcheckout/lnb-tipjar/archive/refs/tags/lnc.23.06.02.zip",
-            "hash": "10bcb5753082fdeaa70b8f90db5e678647f69115f16b595a1626dfa1c23952bd"
+            "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
         },
         {
             "id": "bliksembier",
