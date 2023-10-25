@@ -25,11 +25,11 @@
             "id": "tipjar",
             "repo": "https://github.com/lightningcheckout/lnb-tipjar",
             "name": "Tip Jar",
-            "version": "lnc.23.06.02",
+            "version": "lnc.23.10.25",
             "short_description": "Accept Bitcoin donations, with messages attached!",
             "icon": "https://github.com/lightningcheckout/lnb-tipjar/blob/2d3e544f21e55cf2b6cd55550b89050c3f3c68cc/static/image/tipjar.png?raw=true",
-            "archive": "https://github.com/lightningcheckout/lnb-tipjar/archive/refs/tags/lnc.23.06.02.zip",
-            "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+            "archive": "https://github.com/lightningcheckout/lnb-tipjar/archive/refs/tags/lnc.23.10.25.zip",
+            "hash": "6f79df9ea7666ad1d1e07b305df56bec9adaaadafb7b9e30fb1658123423b1f9"
         },
         {
             "id": "bliksembier",
