@@ -15,11 +15,11 @@
             "id": "satspay",
             "repo": "https://github.com/lightningcheckout/lnb-satspay",
             "name": "SatsPay Server",
-            "version": "lnc.23.10.25",
+            "version": "lnc.23.10.28",
             "short_description": "Create onchain and LN charges",
             "icon": "https://github.com/lightningcheckout/lnb-satspay/blob/0f817ffc5f20fbf6b61cdc2a9916ec0fb94df05d/static/image/satspay.png?raw=true",
-            "archive": "https://github.com/lightningcheckout/lnb-satspay/archive/refs/tags/lnc.23.10.25.zip",
-            "hash": "5d1c6bc3e9dd2f0f779de61e6921b46ad6a2d5a32d6af0de54c930f19c0792db"
+            "archive": "https://github.com/lightningcheckout/lnb-satspay/archive/refs/tags/lnc.23.10.28.zip",
+            "hash": "79c3f1e1d2b5f44712f0d264f9b1c66f76044efa40f2723ea3c0b1450d2b6c81"
         },
         {
             "id": "tipjar",
