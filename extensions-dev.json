@@ -39,7 +39,7 @@
             "short_description": "Lightning enabled Beertap",
             "icon": "https://raw.githubusercontent.com/lightningcheckout/lnb-bliksembier/18407bb8fb112c22ada2ee6f8656cfc6810af28a/Assets/kanhetal.png",
             "archive": "https://github.com/lightningcheckout/lnb-bliksembier/releases/download/lnc.23.12.09/lnc.23.12.09.zip",
-            "hash":"0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+            "hash":"9bc474f5324111d9f352d0ecf6c0f6d33012c5f43b1194a41333b110676725a4"
         }
     ]
 }
