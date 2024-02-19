@@ -40,6 +40,15 @@
             "icon": "https://raw.githubusercontent.com/lightningcheckout/lnb-bliksembier/18407bb8fb112c22ada2ee6f8656cfc6810af28a/Assets/kanhetal.png",
             "archive": "https://github.com/lightningcheckout/lnb-bliksembier/releases/download/lnc.23.12.09/lnc.23.12.09.zip",
             "hash":"9bc474f5324111d9f352d0ecf6c0f6d33012c5f43b1194a41333b110676725a4"
-        }
+        },        {
+	    "id": "partytap",
+	    "repo": "https://github.com/lightningcheckout/lnb_partytap",
+	    "name": "BitcoinTaps LNbits extension",
+	    "version": "831036",
+	    "short_description": "Lightning enabled Beertap",
+	    "icon": "https://raw.githubusercontent.com/BitcoinTaps/partytap/main/static/image/bitcointaps.png",
+	    "archive": "https://github.com/lightningcheckout/lnb_partytap/archive/refs/tags/831036.zip",
+	    "hash":"ef16272408715b25fb1342df10d74d1205c0f89613a8bd6c3ec59fdd3bf0dec4"
+	}
     ]
 }
