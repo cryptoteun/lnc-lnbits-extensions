@@ -1,5 +1,8 @@
 {
-    "featured": ["tpos","satspay","tipjar", "bliksembier"],
+    "featured": [
+        "tpos",
+        "satspay"
+    ],
     "extensions": [
         {
             "id": "tpos",
@@ -12,6 +15,16 @@
             "hash": "019682b4eeca9c570ed930bcf1c3abe1c2fc8498a50ec0916b61cb2d15920c98"
         },
         {
+            "id": "tpos",
+            "repo": "https://github.com/lightningcheckout/lnb-tpos",
+            "name": "TPoS",
+            "version": "lnc.24.04.12",
+            "short_description": "Secure, mobile-ready, instant and shareable point of sale",
+            "icon": "https://raw.githubusercontent.com/lightningcheckout/lnb-tpos/lnc/static/image/tpos.png",
+            "archive": "https://github.com/lightningcheckout/lnb-tpos/archive/refs/tags/lnc.24.04.12.zip",
+            "hash": "97f5ce746c8b51fcb393456ca1f28f4c8474f3110ecb71e1b6f44b8c6a86a156"
+        },
+        {
             "id": "satspay",
             "repo": "https://github.com/lightningcheckout/lnb-satspay",
             "name": "SatsPay Server",
@@ -20,37 +33,6 @@
             "icon": "https://github.com/lightningcheckout/lnb-satspay/blob/0f817ffc5f20fbf6b61cdc2a9916ec0fb94df05d/static/image/satspay.png?raw=true",
             "archive": "https://github.com/lightningcheckout/lnb-satspay/archive/refs/tags/lnc.24.02.29.zip",
             "hash": "01a59f88fe2585e897cd3e6ee9b1f8f5c759c0c6b384307dfb413bb75674583e"
-        },
-        {
-            "id": "tipjar",
-            "repo": "https://github.com/lightningcheckout/lnb-tipjar",
-            "name": "Tip Jar",
-            "version": "lnc.23.10.25",
-            "short_description": "Accept Bitcoin donations, with messages attached!",
-            "icon": "https://github.com/lightningcheckout/lnb-tipjar/blob/2d3e544f21e55cf2b6cd55550b89050c3f3c68cc/static/image/tipjar.png?raw=true",
-            "archive": "https://github.com/lightningcheckout/lnb-tipjar/archive/refs/tags/lnc.23.10.25.zip",
-            "hash": "6f79df9ea7666ad1d1e07b305df56bec9adaaadafb7b9e30fb1658123423b1f9"
-        },
-
-        {
-	    "id": "partytap",
-	    "repo": "https://github.com/lightningcheckout/lnb_partytap",
-	    "name": "BitcoinTaps LNbits extension",
-	    "version": "831036",
-	    "short_description": "Lightning enabled Beertap",
-	    "icon": "https://raw.githubusercontent.com/BitcoinTaps/partytap/main/static/image/bitcointaps.png",
-	    "archive": "https://github.com/lightningcheckout/lnb_partytap/archive/refs/tags/831036.zip",
-	    "hash":"ef16272408715b25fb1342df10d74d1205c0f89613a8bd6c3ec59fdd3bf0dec4"
-	},
-                {
-	    "id": "partytap",
-	    "repo": "https://github.com/lightningcheckout/lnb_partytap",
-	    "name": "BitcoinTaps LNbits extension",
-	    "version": "834063",
-	    "short_description": "Lightning enabled Beertap",
-	    "icon": "https://raw.githubusercontent.com/BitcoinTaps/partytap/main/static/image/bitcointaps.png",
-	    "archive": "https://github.com/lightningcheckout/lnb_partytap/archive/refs/tags/834063.zip",
-	    "hash":"4e1286c7816372f8a9bf4826652d5737113a81223d98cfff59cde905fe6f6971"
-	}
+        }
     ]
 }
