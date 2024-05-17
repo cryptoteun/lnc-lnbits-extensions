@@ -18,11 +18,11 @@
             "id": "tpos",
             "repo": "https://github.com/lightningcheckout/lnb-tpos",
             "name": "TPoS",
-            "version": "lnc.24.04.19",
+            "version": "lnc.24.05.17",
             "short_description": "Secure, mobile-ready, instant and shareable point of sale",
             "icon": "https://raw.githubusercontent.com/lightningcheckout/lnb-tpos/lnc/static/image/tpos.png",
-            "archive": "https://github.com/lightningcheckout/lnb-tpos/archive/refs/tags/lnc.24.04.19.zip",
-            "hash": "593c26ccebc3ac12d15c3d758dd8349106f4e383b293a0883e737d27db942662"
+            "archive": "https://github.com/lightningcheckout/lnb-tpos/archive/refs/tags/lnc.24.05.17.zip",
+            "hash": "32d0b9215c8b6e2a82813a7cbec3d3e596b3d5090161d65ea77502ddbec07f11"
         },
         {
             "id": "satspay",
