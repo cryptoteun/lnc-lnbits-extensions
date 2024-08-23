@@ -22,7 +22,7 @@
             "short_description": "Secure, mobile-ready, instant and shareable point of sale",
             "icon": "https://raw.githubusercontent.com/lightningcheckout/lnb-tpos/lnc/static/image/tpos.png",
             "archive": "https://github.com/lightningcheckout/lnb-tpos/archive/refs/tags/lnc.24.08.23.zip",
-            "hash": "6b9d8e9500c66bdbf48549b3520351db6b58bdcf10e51d7dc8383184853d7c12"
+            "hash": "6f01cd17e97a11a598f7b5e26014e4cbdc2290d74f69625626cd6343cc5e9400"
         },
         {
             "id": "satspay",
